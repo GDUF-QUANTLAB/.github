@@ -60,9 +60,9 @@ Supported by **GJ Quantitative Investment Studio · Guangdong University of Fina
 
 Special thanks to:
 
-- **Prof. Wen-Hui Liao · 廖文辉教授** — Founder, GJ Quantitative Investment Studio
-- **Peng-Cheng Xu · 徐鹏程老师** — Academic & studio support
-- **Dr. De-Huan Wan · 万德焕博士** — Academic & studio support
+- **Prof. Wen-Hui Liao** — Founder, GJ Quantitative Investment Studio
+- **Peng-Cheng Xu** — Academic & studio support
+- **Dr. De-Huan Wan** — Academic & studio support
 
 ---
 
