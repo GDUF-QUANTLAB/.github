@@ -62,7 +62,7 @@ Special thanks to:
 
 - **Prof. Wen-Hui Liao · 廖文辉教授** — Founder, GJ Quantitative Investment Studio
 - **Peng-Cheng Xu · 徐鹏程老师** — Academic & studio support
-- **De-Huan Wan · 万德焕老师** — Academic & studio support
+- **Dr. De-Huan Wan · 万德焕博士** — Academic & studio support
 
 ---
 
