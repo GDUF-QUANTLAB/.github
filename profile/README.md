@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" alt="GDUF Quant Lab — Open-source Quantitative Research" width="100%">
+  <img src="./assets/hero.svg" alt="GDUF Quant Lab — Open-source Quantitative Research" width="100%">
 </p>
 
 <p align="center">
