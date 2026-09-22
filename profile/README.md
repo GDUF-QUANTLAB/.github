@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="GDUF Quant Lab — Open-source Quantitative Research" width="100%">
-</p>
-
-<p align="center">
   <strong>Open-source quantitative research & education at Guangdong University of Finance</strong><br>
   <sub>Research · Engineering · Education</sub>
 </p>
